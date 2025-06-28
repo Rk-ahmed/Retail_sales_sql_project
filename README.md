@@ -133,7 +133,7 @@ This project focuses on analyzing retail sales data using SQL. The dataset conta
 - 🔹 Perform predictive analytics to forecast future sales.
 
 ## 👤 Author
-[Your Name](https://www.linkedin.com/in/rkahmed)  
+[Md. Rakib Ahmed](https://www.linkedin.com/in/rkahmed)  
 🔗 GitHub: [yourusername](https://github.com/Rk-ahmed)
 
 💡 Feel free to ⭐ this repo if you found it useful! Happy querying! 🚀
